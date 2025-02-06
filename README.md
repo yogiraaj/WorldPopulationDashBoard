@@ -16,7 +16,7 @@ Embark on a global data journey with World Bank Group Analysis! 🌐📈 In this
 ## 📊 Dashboard Preview
 
 <div align="center">
-  <img src="">
+  <img src="https://github.com/yogiraaj/WorldPopulationDashBoard/blob/main/Worldpopdash.jpeg">
   <img src="">
 </div>
 
